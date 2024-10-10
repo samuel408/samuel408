@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! 👋 I'm Samuel <br><br>Im a Passionate software engineer and project management enthusiast. <br>Proficient in Full Stack Web Development and adept at leveraging <br>cutting-edge technologies. Excited about transforming ideas into<br> impactful solutions. Let's connect and explore the intersection of<br> software engineering and project management! 
+Hello there! 👋 I'm Samuel <br>Proficient in Full Stack Web Development and adept at leveraging <br>cutting-edge technologies. Excited about transforming ideas into<br> impactful solutions. Let's connect and explore the intersection of<br> software engineering and project management! 
 
 
 ## 🌐 Socials:
